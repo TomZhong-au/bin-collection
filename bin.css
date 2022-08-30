@@ -1,0 +1,16 @@
+.main-container{
+    font-family: 'League Spartan', sans-serif;
+    color:aliceblue;
+    font-size: 3rem;
+}
+
+body{
+    background-size: cover;
+}
+
+.bin{
+    position:relative;
+    top:35vh;
+    left:1rem;
+    text-shadow: 1px 1px 2px #fff; /*outer glow effect*/
+}
